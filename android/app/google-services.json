@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179746611835",
+    "project_id": "skindoc-6d2ab",
+    "storage_bucket": "skindoc-6d2ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179746611835:android:c99043daa3348ee71fb8de",
+        "android_client_info": {
+          "package_name": "com.mad.skindoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179746611835-heqetl7q2o6qrh8ssjishfas9a0usadp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9y5ymVLZIV9nqSiwJKsr4ChJZ6zJDXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179746611835-heqetl7q2o6qrh8ssjishfas9a0usadp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
